@@ -1,13 +1,22 @@
 # test
-######Анекдот
+Анекдот
+
 ***Жена мужу:***
+
 — *Да ты же ненавидишь всех моих родственников!*
+
 — *Ничего подобного, я их очень даже люблю.* ***Вот подтверждение: я люблю твою свекровь намного сильнее, чем свою тещу!***
+
 — ***Вась!*** *Наш кот в тапки нагадил!*
+
 — **Что?! Ах ты, мерзкая скотина!** 
+
 — *Да не в твои! В мамины!* 
+
 — ***А-а-а, ну дай ему сметанки.***
-![Текст описания](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fa4toslu4ilos&psig=AOvVaw2uQIcOkbJ8_Q6tU__XSb8c&ust=1730974470313000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCtk8W8x4kDFQAAAAAdAAAAABAE)
+
+<https://www.nur.kz/leisure/entertainment/1842393-anekdoty-pro-tesu-50-smesnyh-sutok-v-2021/>
+
 ```python
 print ("Введите текст:")
 ```
