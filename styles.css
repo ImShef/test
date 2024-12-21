@@ -1,0 +1,23 @@
+.aqua{
+    color:aqua
+}
+.pink{
+    font-family:'Times New Roman', Times, serif;
+    color:hotpink
+}
+.obs{
+    color:blue;
+    font-family:Arial, Helvetica, sans-serif
+}
+#particles-js{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    overflow: hidden;
+  }
+.red{
+    color:red
+}
